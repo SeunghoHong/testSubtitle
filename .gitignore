@@ -1,0 +1,12 @@
+# xcode
+DerivedData/
+xcshareddata/
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# library
+*.a
+*.framework
+*.o
